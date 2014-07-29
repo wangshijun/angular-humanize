@@ -1,4 +1,4 @@
-angular-numbers
+angular-humanize
 ===============
 
-angular filter for formatting numbers, currencies
+angular bandings for formatting numbers, currencies to be human readable
